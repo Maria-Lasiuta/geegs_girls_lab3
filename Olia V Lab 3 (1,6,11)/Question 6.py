@@ -1,4 +1,4 @@
-'''Question 2
+'''Question 6
 Write a function to calculate number e (base of natural logarithms 2.718281828459045...)
 using formula '''
 import math
